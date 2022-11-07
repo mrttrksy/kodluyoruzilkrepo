@@ -1,0 +1,3 @@
+C:\Users\mrttr\source\repos\Deneme\Deneme\obj\Debug\Deneme.njsproj.AssemblyReference.cache
+C:\Users\mrttr\source\repos\Deneme\Deneme\obj\Debug\Deneme.njsproj.CoreCompileInputs.cache
+C:\Users\mrttr\source\repos\Deneme\Deneme\bin\Microsoft.NodejsTools.WebRole.dll
